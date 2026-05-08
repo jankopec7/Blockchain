@@ -11,3 +11,4 @@ Autor: Jan Kopeć
 | `CW_3/` | Transakcje P2PKH w sieci testowej Bitcoin (scriptPubKey, scriptSig, broadcast) |
 | `CW_4/` | Deployment Hello World Smart Contract na sieci Sepolia |
 | `CW_5/` | Wysyłanie transakcji ETH na sieci testowej Sepolia (ethers.js + Alchemy) |
+| `CW_6/` | Stworzenie i deployment własnego tokenu ERC-20 (JanToken/JTK) na sieci Sepolia |
