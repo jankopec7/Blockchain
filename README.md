@@ -13,3 +13,4 @@ Autor: Jan Kopeć
 | `CW_5/` | Wysyłanie transakcji ETH na sieci testowej Sepolia (ethers.js + Alchemy) |
 | `CW_6/` | Stworzenie i deployment własnego tokenu ERC-20 (JanToken/JTK) na sieci Sepolia |
 | `CW_7/` | Stworzenie i deployment własnego tokenu NFT ERC-721 (JanNFT/JNFT) na sieci Sepolia |
+| `decentralized-community-board/` | Projekt zaliczeniowy — zdecentralizowana tablica ogłoszeń na ICP (Motoko + React) |
